@@ -30,7 +30,7 @@ members = [
     "substrate",
     "tests",
     "tools/ngspice",
-    "tools/spectre",
+    "tools/spectre", "libs/atoll2",
 ]
 
 exclude = ["examples"]

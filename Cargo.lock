@@ -209,7 +209,7 @@ version = "0.1.3"
 dependencies = [
  "cache",
  "ena",
- "grid",
+ "grid 0.13.0",
  "indexmap 2.2.6",
  "num",
  "pathfinding",
@@ -218,6 +218,15 @@ dependencies = [
  "serde",
  "substrate",
  "tracing",
+]
+
+[[package]]
+name = "atoll2"
+version = "0.1.0"
+dependencies = [
+ "gds",
+ "geometry",
+ "grid 0.15.0",
 ]
 
 [[package]]
@@ -1165,6 +1174,15 @@ name = "grid"
 version = "0.13.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "d196ffc1627db18a531359249b2bf8416178d84b729f3cebeb278f285fb9b58c"
+dependencies = [
+ "serde",
+]
+
+[[package]]
+name = "grid"
+version = "0.15.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "36119f3a540b086b4e436bb2b588cf98a68863470e0e880f4d0842f112a3183a"
 dependencies = [
  "serde",
 ]
