@@ -1,6 +1,6 @@
 [package]
 name = "codegen"
-version = "0.10.2"
+version = "0.10.3"
 edition = "2021"
 
 [dependencies]
@@ -15,7 +15,7 @@ snippets = { version = "0.7.0", registry = "substrate", path = "../docs/snippets
 macrotools = { version = "0.2.0", registry = "substrate", path = "../libs/macrotools" }
 
 [dev-dependencies]
-substrate = { version = "<=0.10.2", registry = "substrate", path = "../substrate" }
+substrate = { version = "<=0.10.3", registry = "substrate", path = "../substrate" }
 scir = { version = "<=0.9.1", registry = "substrate", path = "../libs/scir" }
 arcstr = "1"
 rust_decimal = "1"
@@ -23,7 +23,7 @@ rust_decimal_macros = "1"
 
 [build-dependencies]
 snippets = { version = "0.7.0", registry = "substrate", path = "../docs/snippets" }
-examples = { version = "0.2.0", registry = "substrate", path = "../examples" }
+examples = { version = "0.2.1", registry = "substrate", path = "../examples" }
 
 [lib]
 proc-macro = true

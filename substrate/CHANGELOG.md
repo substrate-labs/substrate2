@@ -28,6 +28,26 @@
   * dependencies
     * codegen bumped from 0.10.1 to 0.10.2
 
+## [0.10.3](https://github.com/ucb-substrate/substrate2/compare/substrate-v0.10.2...substrate-v0.10.3) (2025-02-18)
+
+
+### Features
+
+* **stdcells:** implement layout for sky130 stdcells ([#586](https://github.com/ucb-substrate/substrate2/issues/586)) ([6e438ec](https://github.com/ucb-substrate/substrate2/commit/6e438ecde6b092231b4f9b6f17e3004663c17f74))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * codegen bumped from 0.10.2 to 0.10.3
+    * layir bumped from 0.2.1 to 0.2.2
+    * geometry bumped from 0.7.1 to 0.7.2
+    * gds bumped from 0.4.1 to 0.4.2
+    * gdsconv bumped from 0.2.1 to 0.2.2
+  * build-dependencies
+    * examples bumped from 0.2.0 to 0.2.1
+
 ## [0.10.1](https://github.com/ucb-substrate/substrate2/compare/substrate-v0.10.0...substrate-v0.10.1) (2025-01-24)
 
 

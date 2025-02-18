@@ -1,5 +1,10 @@
 # Changelog
 
+* The following workspace dependencies were updated
+  * dependencies
+    * substrate bumped from 0.10.2 to 0.10.3
+    * spice bumped from 0.9.2 to 0.9.3
+
 ## [0.2.2](https://github.com/ucb-substrate/substrate2/compare/quantus-v0.2.1...quantus-v0.2.2) (2025-02-02)
 
 

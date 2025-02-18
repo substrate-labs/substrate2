@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.4.2](https://github.com/ucb-substrate/substrate2/compare/gds-v0.4.1...gds-v0.4.2) (2025-02-18)
+
+
+### Features
+
+* **gds:** support importing GDS libraries into sky130 ([#583](https://github.com/ucb-substrate/substrate2/issues/583)) ([5e3181b](https://github.com/ucb-substrate/substrate2/commit/5e3181b1307e32a017126028fc15a13255129195))
+
+
+### Bug Fixes
+
+* **deps:** update rust crate derive_more to v2 ([#573](https://github.com/ucb-substrate/substrate2/issues/573)) ([46be12c](https://github.com/ucb-substrate/substrate2/commit/46be12cd68038469f7986c10db6a2ad1beab3b05))
+
 ## [0.4.1](https://github.com/ucb-substrate/substrate2/compare/gds-v0.4.0...gds-v0.4.1) (2025-01-24)
 
 

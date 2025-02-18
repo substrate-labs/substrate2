@@ -1,19 +1,19 @@
 [package]
 name = "sky130"
-version = "0.10.2"
+version = "0.10.3"
 edition = "2021"
 
 [dependencies]
-substrate = { version = "0.10.2", registry = "substrate", path = "../../substrate" }
+substrate = { version = "0.10.3", registry = "substrate", path = "../../substrate" }
 scir = { version = "0.9.1", registry = "substrate", path = "../../libs/scir" }
-layir = { version = "0.2.1", registry = "substrate", path = "../../libs/layir" }
-gdsconv = { version = "0.2.1", registry = "substrate", path = "../../libs/gdsconv" }
-gds = { version = "0.4.1", registry = "substrate", path = "../../libs/gds" }
-spectre = { version = "0.11.2", registry = "substrate", path = "../../tools/spectre" }
-ngspice = { version = "0.5.2", registry = "substrate", path = "../../tools/ngspice" }
-spice = { version = "0.9.2", registry = "substrate", path = "../../libs/spice" }
+layir = { version = "0.2.2", registry = "substrate", path = "../../libs/layir" }
+gdsconv = { version = "0.2.2", registry = "substrate", path = "../../libs/gdsconv" }
+gds = { version = "0.4.2", registry = "substrate", path = "../../libs/gds" }
+spectre = { version = "0.11.3", registry = "substrate", path = "../../tools/spectre" }
+ngspice = { version = "0.5.3", registry = "substrate", path = "../../tools/ngspice" }
+spice = { version = "0.9.3", registry = "substrate", path = "../../libs/spice" }
 geometry_macros = { version = "0.1.1", registry = "substrate", path = "../../libs/geometry_macros" }
-geometry = { version = "0.7.1", registry = "substrate", path = "../../libs/geometry" }
+geometry = { version = "0.7.2", registry = "substrate", path = "../../libs/geometry" }
 
 rust_decimal = "1"
 rust_decimal_macros = "1"

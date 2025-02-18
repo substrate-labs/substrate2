@@ -4,6 +4,10 @@
   * dependencies
     * substrate bumped from 0.8.0 to 0.8.1
 
+* The following workspace dependencies were updated
+  * dependencies
+    * substrate bumped from 0.10.2 to 0.10.3
+
 ## [0.9.2](https://github.com/ucb-substrate/substrate2/compare/spice-v0.9.1...spice-v0.9.2) (2025-02-02)
 
 

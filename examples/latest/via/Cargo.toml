@@ -5,5 +5,5 @@ edition = "2021"
 publish = false
 
 [dependencies]
-substrate = { version = "0.10.2", registry = "substrate", path = "../../../substrate" }
-layir = { version = "0.2.1", registry = "substrate", path = "../../../libs/layir" }
+substrate = { version = "0.10.3", registry = "substrate", path = "../../../substrate" }
+layir = { version = "0.2.2", registry = "substrate", path = "../../../libs/layir" }

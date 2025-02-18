@@ -1,6 +1,6 @@
 [package]
 name = "spice"
-version = "0.9.2"
+version = "0.9.3"
 edition = "2021"
 
 [dependencies]
@@ -18,5 +18,5 @@ lazy_static = "1"
 num-traits = "0.2"
 
 scir = { version = "0.9.1", registry = "substrate", path = "../scir" }
-substrate = { version = "0.10.2", registry = "substrate", path = "../../substrate" }
+substrate = { version = "0.10.3", registry = "substrate", path = "../../substrate" }
 enumify = { version = "0.2.1", registry = "substrate", path = "../enumify" }
