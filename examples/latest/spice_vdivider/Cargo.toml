@@ -6,8 +6,8 @@ publish = false
 
 # begin-code-snippet dependencies
 [dependencies]
-substrate = { version = "0.10.2", registry = "substrate", path = "../../../substrate" }
-spice = { version = "0.9.2", registry = "substrate", path = "../../../libs/spice" }
+substrate = { version = "0.10.3", registry = "substrate", path = "../../../substrate" }
+spice = { version = "0.9.3", registry = "substrate", path = "../../../libs/spice" }
 
 rust_decimal = "1"
 rust_decimal_macros = "1"

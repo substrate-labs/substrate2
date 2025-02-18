@@ -1,6 +1,6 @@
 [package]
 name = "substrate"
-version = "0.10.2"
+version = "0.10.3"
 edition = "2021"
 
 [dependencies]
@@ -27,11 +27,11 @@ derive-where = "1"
 config = { version = "0.4.1", registry = "substrate", path = "../config" }
 snippets = { version = "0.7.0", registry = "substrate", path = "../docs/snippets" }
 cache = { version = "0.7.1", registry = "substrate", path = "../libs/cache" }
-codegen = { version = "0.10.2", registry = "substrate", path = "../codegen" }
-layir = { version = "0.2.1", registry = "substrate", path = "../libs/layir" }
-geometry = { version = "0.7.1", registry = "substrate", path = "../libs/geometry" }
-gds = { version = "0.4.1", registry = "substrate", path = "../libs/gds" }
-gdsconv = { version = "0.2.1", registry = "substrate", path = "../libs/gdsconv" }
+codegen = { version = "0.10.3", registry = "substrate", path = "../codegen" }
+layir = { version = "0.2.2", registry = "substrate", path = "../libs/layir" }
+geometry = { version = "0.7.2", registry = "substrate", path = "../libs/geometry" }
+gds = { version = "0.4.2", registry = "substrate", path = "../libs/gds" }
+gdsconv = { version = "0.2.2", registry = "substrate", path = "../libs/gdsconv" }
 enumify = { version = "0.2.1", registry = "substrate", path = "../libs/enumify" }
 scir = { version = "0.9.1", registry = "substrate", path = "../libs/scir" }
 pathtree = { version = "0.3.0", registry = "substrate", path = "../libs/pathtree" }
@@ -44,4 +44,4 @@ lazy_static = "1"
 
 [build-dependencies]
 snippets = { version = "0.7.0", registry = "substrate", path = "../docs/snippets" }
-examples = { version = "0.2.0", registry = "substrate", path = "../examples" }
+examples = { version = "0.2.1", registry = "substrate", path = "../examples" }

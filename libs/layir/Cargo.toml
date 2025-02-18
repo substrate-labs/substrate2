@@ -1,6 +1,6 @@
 [package]
 name = "layir"
-version = "0.2.1"
+version = "0.2.2"
 edition = "2021"
 
 [dependencies]
@@ -12,5 +12,5 @@ thiserror = "2"
 
 enumify = { version = "0.2.1", registry = "substrate", path = "../enumify" }
 uniquify = { version = "0.4.0", registry = "substrate", path = "../uniquify" }
-geometry = { version = "0.7.1", registry = "substrate", path = "../geometry" }
+geometry = { version = "0.7.2", registry = "substrate", path = "../geometry" }
 

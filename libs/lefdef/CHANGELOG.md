@@ -4,6 +4,10 @@
   * dependencies
     * geometry bumped from 0.7.0 to 0.7.1
 
+* The following workspace dependencies were updated
+  * dependencies
+    * geometry bumped from 0.7.1 to 0.7.2
+
 ## [0.2.0](https://github.com/ucb-substrate/substrate2/compare/lefdef-v0.1.0...lefdef-v0.2.0) (2025-01-23)
 
 

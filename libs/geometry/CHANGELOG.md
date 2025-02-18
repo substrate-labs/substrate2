@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.2](https://github.com/ucb-substrate/substrate2/compare/geometry-v0.7.1...geometry-v0.7.2) (2025-02-18)
+
+
+### Bug Fixes
+
+* **polygon:** fix implementation of `Contains&lt;Point&gt;` for `Polygon` ([#592](https://github.com/ucb-substrate/substrate2/issues/592)) ([585f4e3](https://github.com/ucb-substrate/substrate2/commit/585f4e37a35d18e30348b86da598cb31710de19e))
+
 ## [0.7.1](https://github.com/ucb-substrate/substrate2/compare/geometry-v0.7.0...geometry-v0.7.1) (2025-01-24)
 
 

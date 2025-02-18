@@ -1,5 +1,26 @@
 # Changelog
 
+## [0.2.2](https://github.com/ucb-substrate/substrate2/compare/gdsconv-v0.2.1...gdsconv-v0.2.2) (2025-02-18)
+
+
+### Features
+
+* **gds:** convert GDS to generic layer type via FromGds trait ([#590](https://github.com/ucb-substrate/substrate2/issues/590)) ([1b98f28](https://github.com/ucb-substrate/substrate2/commit/1b98f289b4cd5b94f4248691b35bad8ec73b83c5))
+
+
+### Bug Fixes
+
+* **gds:** do not throw error on ports with missing labels ([#595](https://github.com/ucb-substrate/substrate2/issues/595)) ([014ef80](https://github.com/ucb-substrate/substrate2/commit/014ef80536c3e5a217da02344d44b3f524132105))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * layir bumped from 0.2.1 to 0.2.2
+    * gds bumped from 0.4.1 to 0.4.2
+    * geometry bumped from 0.7.1 to 0.7.2
+
 ## [0.2.1](https://github.com/ucb-substrate/substrate2/compare/gdsconv-v0.2.0...gdsconv-v0.2.1) (2025-01-24)
 
 

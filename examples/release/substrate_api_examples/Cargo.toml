@@ -5,7 +5,7 @@ edition = "2021"
 publish = false
 
 [dependencies]
-substrate = { version = "0.10.2", registry = "substrate" }
+substrate = { version = "0.10.3", registry = "substrate" }
 scir = { version = "0.9.1", registry = "substrate" }
 
 arcstr = "1"

@@ -1,5 +1,21 @@
 # Changelog
 
+## [0.2.2](https://github.com/ucb-substrate/substrate2/compare/layir-v0.2.1...layir-v0.2.2) (2025-02-18)
+
+
+### Features
+
+* **gds:** convert GDS to generic layer type via FromGds trait ([#590](https://github.com/ucb-substrate/substrate2/issues/590)) ([1b98f28](https://github.com/ucb-substrate/substrate2/commit/1b98f289b4cd5b94f4248691b35bad8ec73b83c5))
+* **gds:** support importing GDS libraries into sky130 ([#583](https://github.com/ucb-substrate/substrate2/issues/583)) ([5e3181b](https://github.com/ucb-substrate/substrate2/commit/5e3181b1307e32a017126028fc15a13255129195))
+* **stdcells:** implement layout for sky130 stdcells ([#586](https://github.com/ucb-substrate/substrate2/issues/586)) ([6e438ec](https://github.com/ucb-substrate/substrate2/commit/6e438ecde6b092231b4f9b6f17e3004663c17f74))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * geometry bumped from 0.7.1 to 0.7.2
+
 ## [0.2.1](https://github.com/ucb-substrate/substrate2/compare/layir-v0.2.0...layir-v0.2.1) (2025-01-24)
 
 

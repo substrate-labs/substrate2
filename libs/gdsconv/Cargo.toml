@@ -1,6 +1,6 @@
 [package]
 name = "gdsconv"
-version = "0.2.1"
+version = "0.2.2"
 edition = "2021"
 
 [dependencies]
@@ -10,6 +10,6 @@ slotmap = "1"
 serde = { version = "1", features = ["derive"] }
 thiserror = "2"
 
-layir = { version = "0.2.1", registry = "substrate", path = "../layir" }
-gds = { version = "0.4.1", registry = "substrate", path = "../gds" }
-geometry = { version = "0.7.1", registry = "substrate", path = "../geometry" }
+layir = { version = "0.2.2", registry = "substrate", path = "../layir" }
+gds = { version = "0.4.2", registry = "substrate", path = "../gds" }
+geometry = { version = "0.7.2", registry = "substrate", path = "../geometry" }

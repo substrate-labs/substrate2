@@ -8,6 +8,21 @@
   * dependencies
     * substrate bumped from 0.6.0 to 0.6.1
 
+## [0.11.3](https://github.com/ucb-substrate/substrate2/compare/spectre-v0.11.2...spectre-v0.11.3) (2025-02-18)
+
+
+### Features
+
+* **spectre:** add support for IBIS model includes ([#591](https://github.com/ucb-substrate/substrate2/issues/591)) ([8ec582f](https://github.com/ucb-substrate/substrate2/commit/8ec582f7088c3c863fba1db2ed899dd1a25bab54))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * substrate bumped from 0.10.2 to 0.10.3
+    * spice bumped from 0.9.2 to 0.9.3
+
 ## [0.11.2](https://github.com/ucb-substrate/substrate2/compare/spectre-v0.11.1...spectre-v0.11.2) (2025-02-02)
 
 
